@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Deborrah David
+### Hi there 👋 I'm Deborrah
 
 - 💬 Ask me about Data Science, AI, Microsoft Fabric, Power BI, Azure AI, data governance, AI adoption, and translating technical ideas for non-technical audiences
 - 🔭 I’m currently gaining hands-on Data & AI experience at SSW, working across Microsoft technologies and modern data practices
