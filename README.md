@@ -34,11 +34,18 @@ Some of the areas I'm currently developing include:
 - Commercial and consulting capability
 - Responsible AI and human-in-the-loop workflows
 
-[![{{debdavid}}'s GitHub stats](https://gitstats.ssw.com.au/api?username={{debdavid}}&amp;theme=dark)](https://github.com/SSWConsulting/SSW.GitHub.Profile.Stats)
-
 ### Tech
 
 `Python` `SQL` `Power BI` `Microsoft Fabric` `Azure` `Git` `PyTorch` `TensorFlow` `scikit-learn` `LangGraph`
+
+### GitHub Stats
+
+<a href="https://github.com/SSWConsulting/SSW.GitHub.Profile.Stats">
+  <img height="180" src="https://ssw-github-profile-stats.vercel.app/api?username=debdavid&show_icons=true&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/SSWConsulting/SSW.GitHub.Profile.Stats">
+  <img height="180" src="https://ssw-github-profile-stats.vercel.app/api/top-langs/?username=debdavid&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
+</a>
 
 ---
 
