@@ -8,7 +8,7 @@
 - 🎓 I hold a Master of Applied Data Science from Monash University, along with qualifications in teaching, product management, and data science strategy
 - 🛠️ I work with Python, SQL, Power BI, Microsoft Fabric, Azure, PyTorch, TensorFlow, scikit-learn, and Git
 - 🚀 Long term, I’m working toward Data & AI engagement leadership — connecting client problems, technical teams, delivery, adoption, and measurable business value
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/deborrahdavid)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deborrahdavid)
 - ⚡ Fun fact: Before moving into Data & AI, I worked as a mainstream school teacher across Prep to Year 12. In secondary school, I taught Science, Mathematics, Physics, and Digital Technologies — so translating complex ideas into something practical and understandable has been part of my work for a long time
 
 ### A few things I'm interested in
