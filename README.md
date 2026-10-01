@@ -41,10 +41,10 @@ Some of the areas I'm currently developing include:
 ### GitHub Stats
 
 <a href="https://github.com/SSWConsulting/SSW.GitHub.Profile.Stats">
-  <img height="180" src="https://ssw-github-profile-stats.vercel.app/api?username=debdavid&show_icons=true&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/SSWConsulting/SSW.GitHub.Profile.Stats">
-  <img height="180" src="https://ssw-github-profile-stats.vercel.app/api/top-langs/?username=debdavid&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
+  <img
+    height="180"
+    src="https://ssw-github-profile-stats.vercel.app/api/top-langs/?username=debdavid&layout=compact&langs_count=5&hide=html,astro,css&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&custom_title=Languages%20across%20my%20public%20repositories"
+  />
 </a>
 
 ---
